@@ -1,0 +1,5 @@
+# keys
+*.key
+
+# xlsx files
+*.xlsx
